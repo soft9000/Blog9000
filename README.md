@@ -1,6 +1,8 @@
 # Blog9000
 A place for sharing what we present on the 'Net.
 
+NOTE: GnuCOBOL is being migrated [here](https://github.com/soft9000/COBOL).
+
 ## Prompter9000
 Quick &amp; easy way to edit dictionaries. Console & programmatic usages are supported.
 
