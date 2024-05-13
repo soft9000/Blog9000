@@ -31,10 +31,6 @@ A **__btn_ok** key is added and will be `True` if [Okay] was selected, else is `
 
 See the help() system for more information.
 
-### Using
-
-Here is some how-to-use-it [video inspirations](https://youtu.be/gaT4_IuxOWs)
-
 ### PyPi
 
 ![Counter](https://github.com/soft9000/Blog9000/blob/master/Python3/Tkinter/PyCount.png)
