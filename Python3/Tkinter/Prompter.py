@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 from tkinter import *
 
+# Note: Project now at https://github.com/soft9000/Prompter9000
+
 # Mission: Create a way to query a user for command-line
 # values. Mission statement implies the encapsulation of
 # a GUI paradigm. Here is how to do so using tkinter under
